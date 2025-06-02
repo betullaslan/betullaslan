@@ -1,8 +1,8 @@
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Betul+Aslan+👋;Welcome+to+my+GitHub+profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4682B4&center=true&vCenter=true&width=500&lines=Hello!+I'm+Betul+Aslan+;Welcome+to+my+GitHub+profile!" />
 
 ---
 
@@ -19,7 +19,29 @@
 ## 🚀 Programming Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,abap,arduino,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,matlab" />
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="40" height="40" alt="ABAP" title="ABAP"/>
+</p>
+
+---
+
+## 📁 My Repositories
+
+> Coursework repositories in chronological order:
+
+1. [gsu-ce-year1](https://github.com/betullaslan/gsu-ce-year1) – 1st year @ Galatasaray University (2022–2023)  
+2. [gsu-ce-year2](https://github.com/betullaslan/gsu-ce-year2) – 2nd year @ Galatasaray University (2023–2024)  
+3. [gsu-ce-year3](https://github.com/betullaslan/gsu-ce-year3) – 3rd year @ Galatasaray University (2025)  
+4. [insa-lyon-ce-year3](https://github.com/betullaslan/insa-lyon-ce-year3) – Exchange @ INSA Lyon (2024)  
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/betul-aslan/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
@@ -35,26 +57,3 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=betullaslan&theme=onedark" alt="GitHub Trophies" />
 </p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/betul-aslan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
