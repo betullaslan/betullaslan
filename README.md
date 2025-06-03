@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4682B4&center=true&vCenter=true&width=500&lines=Hello!+I'm+Betul+Aslan+;Welcome+to+my+GitHub+profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Betul+Aslan+;Welcome+to+my+GitHub+profile!" />
 
 ---
 
@@ -20,19 +20,17 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,matlab" />
-  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="40" height="40" alt="ABAP" title="ABAP"/>
+  <img src="https://img.shields.io/badge/ABAP-%23004d99.svg?style=flat&logo=SAP&logoColor=white" alt="ABAP" height="30"/>
 </p>
 
 ---
 
 ## 📁 My Repositories
 
-> Coursework repositories in chronological order:
-
-1. [gsu-ce-year1](https://github.com/betullaslan/gsu-ce-year1) – 1st year @ Galatasaray University (2022–2023)  
-2. [gsu-ce-year2](https://github.com/betullaslan/gsu-ce-year2) – 2nd year @ Galatasaray University (2023–2024)  
-3. [gsu-ce-year3](https://github.com/betullaslan/gsu-ce-year3) – 3rd year @ Galatasaray University (2025)  
-4. [insa-lyon-ce-year3](https://github.com/betullaslan/insa-lyon-ce-year3) – Exchange @ INSA Lyon (2024)  
+1. [gsu-ce-year3](https://github.com/betullaslan/gsu-ce-year3) – 3rd year @ Galatasaray University (2025)
+2. [insa-lyon-ce-year3](https://github.com/betullaslan/insa-lyon-ce-year3) – Exchange @ INSA Lyon (2024)
+3. [gsu-ce-year2](https://github.com/betullaslan/gsu-ce-year2) – 2nd year @ Galatasaray University (2023–2024)  
+4. [gsu-ce-year1](https://github.com/betullaslan/gsu-ce-year1) – 1st year @ Galatasaray University (2022–2023)  
 
 ---
 
