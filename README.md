@@ -20,17 +20,20 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,matlab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="48" height="48" alt="ABAP" title="ABAP"/>
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="40" height="40" alt="ABAP" title="ABAP"/>
 </p>
 
 ---
 
 ## 📁 My Repositories
 
-1. [gsu-ce-year3](https://github.com/betullaslan/gsu-ce-year3) – 3rd year @ Galatasaray University (2025)
-2. [insa-lyon-ce-year3](https://github.com/betullaslan/insa-lyon-ce-year3) – Exchange @ INSA Lyon (2024)
-3. [gsu-ce-year2](https://github.com/betullaslan/gsu-ce-year2) – 2nd year @ Galatasaray University (2023–2024)  
-4. [gsu-ce-year1](https://github.com/betullaslan/gsu-ce-year1) – 1st year @ Galatasaray University (2022–2023)  
+| Repository | Description | Year |
+|-----------|-------------|----------------|
+| [gsu-ce-year3](https://github.com/betullaslan/gsu-ce-year3) | 3rd year @ Galatasaray University | 2024–2025 |
+| [insa-lyon-ce-year3](https://github.com/betullaslan/insa-lyon-ce-year3) | Exchange @ INSA Lyon | 2024 |
+| [gsu-ce-year2](https://github.com/betullaslan/gsu-ce-year2) | 2nd year @ Galatasaray University | 2023–2024 |
+| [gsu-ce-year1](https://github.com/betullaslan/gsu-ce-year1) | 1st year @ Galatasaray University | 2022–2023 |
+
 
 ---
 
