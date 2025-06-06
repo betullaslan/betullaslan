@@ -1,8 +1,6 @@
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Betul+Aslan+;Welcome+to+my+GitHub+profile!" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005EFF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Betul+Aslan+;Welcome+to+my+GitHub+profile!" />
+</div>
 
 ---
 
@@ -34,24 +32,11 @@
 | [gsu-ce-year2](https://github.com/betullaslan/gsu-ce-year2) | 2nd year @ Galatasaray University | 2023–2024 |
 | [gsu-ce-year1](https://github.com/betullaslan/gsu-ce-year1) | 1st year @ Galatasaray University | 2022–2023 |
 
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/betul-aslan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betullaslan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betullaslan&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=betullaslan&theme=radical" alt="GitHub Streak" />
