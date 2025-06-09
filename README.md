@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-<div align="center" style="margin-top:-40px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005EFF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Betul+Aslan+;Welcome+to+my+GitHub+profile!" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=005EFF&height=120&section=header"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005EFF&center=true&vCenter=true&width=380&lines=Hello!+I'm+Betul+Aslan;Welcome+to+my+GitHub+profile!" />
 </div>
 
 ---
@@ -19,7 +19,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,matlab" />
-  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="40" height="40" alt="ABAP" title="ABAP" />
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="55" height="48" alt="ABAP" title="ABAP" />
 </p>
 
 ---
