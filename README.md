@@ -1,4 +1,5 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<div align="center" style="margin-top:-40px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005EFF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Betul+Aslan+;Welcome+to+my+GitHub+profile!" />
 </div>
 
@@ -6,11 +7,11 @@
 
 ## 📚 About Me
 
-- 🎓 I’m a **Computer Engineering** student at **Galatasaray University**, Istanbul  
-- 💻 I’m interested in software development, problem-solving, and building real-world applications  
-- 🧩 I like exploring different layers of computing — from low-level programming to graphical interfaces  
-- 🛠️ I work mainly with **C**, **C++**, **Java**, and **Python**  
-- 🧾 Recently, I've also started exploring **ABAP** and backend-oriented enterprise technologies  
+- I’m a Computer Engineering student at **Galatasaray University**, Istanbul  
+- Passionate about solving real-world problems through software  
+- Curious about systems at all levels — from low-level code to visual interfaces  
+- Working mainly with **C**, **C++**, **Java**, and **Python**  
+- Recently exploring **ABAP** and enterprise systems like **SAP ERP**
 
 ---
 
@@ -18,7 +19,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,matlab" />
-  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="40" height="40" alt="ABAP" title="ABAP"/>
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="40" height="40" alt="ABAP" title="ABAP" />
 </p>
 
 ---
@@ -34,6 +35,7 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -43,3 +45,4 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=betullaslan&theme=onedark" alt="GitHub Trophies" />
 </p>
+-->
