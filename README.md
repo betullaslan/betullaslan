@@ -19,7 +19,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,matlab" />
-  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="72" height="48" alt="ABAP" title="ABAP" />
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="40" height="40" alt="ABAP" title="ABAP"/>
 </p>
 
 ---
@@ -35,7 +35,6 @@
 
 ---
 
-<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -45,4 +44,3 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=betullaslan&theme=onedark" alt="GitHub Trophies" />
 </p>
--->
