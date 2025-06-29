@@ -19,7 +19,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino,matlab" />
-  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="40" height="40" style="margin-left:5px;" alt="SAP" title="SAP" />
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="48" height="40" style="margin-left:5px;" alt="SAP" title="SAP" />
 </p>
 
 ---
@@ -38,24 +38,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betullaslan&layout=compact&theme=radical" alt="Top Languages" />
-  <br/><br/>
-
-  <!-- Streak Stats -->
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=betullaslan&theme=radical" alt="GitHub Streak" />
-  <br/><br/>
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=betullaslan&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  <br/><br/>
-
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=betullaslan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/><br/>
-
-  <!-- Contribution Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=betullaslan&theme=radical" alt="Activity Graph"/>
-  </a>
+  <br/>
 </p>
