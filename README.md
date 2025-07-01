@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=005EFF&height=120&section=header"/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005EFF&center=true&vCenter=true&width=380&lines=Hello!+I'm+Betul+Aslan;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005EFF&center=true&vCenter=true&width=350&lines=Hello!+I'm+Betul+Aslan;Welcome+to+my+GitHub+profile!" />
 </div>
 
 ---
@@ -32,6 +32,14 @@
 | [insa-lyon-ce-year3](https://github.com/betullaslan/insa-lyon-ce-year3) | Exchange @ INSA Lyon | 2024 |
 | [gsu-ce-year2](https://github.com/betullaslan/gsu-ce-year2) | 2nd year @ Galatasaray University | 2023–2024 |
 | [gsu-ce-year1](https://github.com/betullaslan/gsu-ce-year1) | 1st year @ Galatasaray University | 2022–2023 |
+
+---
+
+## 📈 My Contribution Journey
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=betullaslan&theme=github-compact" alt="Contribution Graph"/>
+</p>
 
 ---
 
