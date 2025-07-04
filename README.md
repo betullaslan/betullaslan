@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=005EFF&height=120&section=header"/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005EFF&center=true&vCenter=true&width=350&lines=Hello!+I'm+Betul+Aslan;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005EFF&center=true&vCenter=true&width=300&lines=Hello!+I'm+Betul+Aslan;Welcome+to+my+GitHub+profile!" />
 </div>
 
 ---
@@ -38,7 +38,7 @@
 ## 📈 My Contribution Journey
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=betullaslan&theme=github-compact" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=betullaslan&theme=github-compact" alt="Contribution Graph"/>
 </p>
 
 ---
