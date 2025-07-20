@@ -42,4 +42,5 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=betullaslan&theme=radical" alt="GitHub Streak" />
   <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=betullaslan&show_icons=true&theme=radical&cache_seconds=30" alt="GitHub Stats" />
 </p>
