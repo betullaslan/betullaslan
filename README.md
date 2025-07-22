@@ -34,13 +34,3 @@
 | [gsu-ce-year1](https://github.com/betullaslan/gsu-ce-year1) | 1st year @ Galatasaray University | 2022–2023 |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betullaslan&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betullaslan&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=betullaslan&show_icons=true&theme=radical&cache_seconds=30" alt="GitHub Stats" />
-</p>
