@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=005EFF&height=200&section=header&text=Hello!%20I'm%20Betul%20Aslan&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=45" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=005EFF&height=110&section=header"/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=005EFF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Passionate+about+Tech+%26+Systems;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005EFF&center=true&vCenter=true&width=380&lines=Hello!+I'm+Betul+Aslan;Welcome+to+my+GitHub+profile!" />
 </div>
 
 ---
