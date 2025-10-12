@@ -28,6 +28,7 @@
 
 | Repository | Description | Year |
 |-----------|-------------|----------------|
+| [gsu-ce-year4](https://github.com/betullaslan/gsu-ce-year4) | 4th year @ Galatasaray University | 2025–2026 |
 | [sap-abap-internship](https://github.com/betullaslan/sap-abap-internship) | SAP ABAP internship | 2025 |
 | [gsu-ce-year3](https://github.com/betullaslan/gsu-ce-year3) | 3rd year @ Galatasaray University | 2025 |
 | [insa-lyon-ce-year3](https://github.com/betullaslan/insa-lyon-ce-year3) | Exchange @ INSA Lyon | 2024 |
