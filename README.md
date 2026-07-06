@@ -8,8 +8,8 @@
 
 ## 📚 About Me
 
-- Currently pursuing an M.Sc. in **Computer Engineering** at **Istanbul Technical University (ITU)**.
-- B.Sc. in **Computer Engineering** from **Galatasaray University (GSU)**.
+- Currently pursuing an MSc in **Computer Engineering** at **Istanbul Technical University (ITU)**.
+- BSc in **Computer Engineering** from **Galatasaray University (GSU)**.
 - Interested in software engineering, algorithms, and optimization.
 
 ---
@@ -46,13 +46,13 @@
 
 | Repository | Description | Year |
 |------------|-------------|------|
-| `itu-msc-ce` | M.Sc. coursework and projects in Computer Engineering | 2026–Present |
+| `itu-msc-ce` | MSc coursework and projects in Computer Engineering | 2026–Present |
 
 ### 🎓 BSc — Galatasaray University
 
 | Repository | Description | Year |
 |------------|-------------|------|
-| [gsu-bsc-ce-capstone-project](https://github.com/betullaslan/gsu-bsc-ce-capstone-project) | **B.Sc. Capstone Project:** Automated Testing Process Analysis Using Generative Artificial Intelligence | 2025–2026 |
+| [gsu-bsc-ce-capstone-project](https://github.com/betullaslan/gsu-bsc-ce-capstone-project) | Automated Testing Process Analysis Using Generative Artificial Intelligence | 2026 |
 | [gsu-bsc-ce-year4](https://github.com/betullaslan/gsu-bsc-ce-year4) | 4th-year coursework and projects | 2025–2026 |
 | [gsu-bsc-ce-year3](https://github.com/betullaslan/gsu-bsc-ce-year3) | 3rd-year coursework and projects | 2025 |
 | [insa-lyon-ce-year3](https://github.com/betullaslan/insa-lyon-ce-year3) | Exchange studies at INSA Lyon | 2024 |
