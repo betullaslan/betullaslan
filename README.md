@@ -46,7 +46,7 @@
 
 | Repository | Description | Year |
 |------------|-------------|------|
-| `itu-msc-ce` | MSc coursework and projects in Computer Engineering | 2026–Present |
+| [itu-msc-ce](https://github.com/betullaslan/itu-msc-ce) | MSc coursework and projects in Computer Engineering | 2026–Present |
 
 ### 🎓 BSc — Galatasaray University
 
