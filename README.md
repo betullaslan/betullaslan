@@ -52,7 +52,7 @@
 
 | Repository | Description | Year |
 |------------|-------------|------|
-| [gsu-bsc-ce-capstone-project](https://github.com/betullaslan/gsu-bsc-ce-capstone-project) | Automated Testing Process Analysis Using Generative Artificial Intelligence | 2026 |
+| [gsu-bsc-ce-capstone-project](https://github.com/betullaslan/gsu-bsc-ce-capstone-project) | BSc capstone project on generative AI for software testing | 2026 |
 | [gsu-bsc-ce-year4](https://github.com/betullaslan/gsu-bsc-ce-year4) | 4th-year coursework and projects | 2025–2026 |
 | [gsu-bsc-ce-year3](https://github.com/betullaslan/gsu-bsc-ce-year3) | 3rd-year coursework and projects | 2025 |
 | [insa-lyon-bsc-ce-year3](https://github.com/betullaslan/insa-lyon-ce-year3) | Exchange studies at INSA Lyon | 2024 |
